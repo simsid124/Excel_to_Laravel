@@ -1,7 +1,9 @@
 Convert excel/.csv file to laravel PHP databases
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HOW TO RUN:
+
 pre requisites:
+
 uncomment extension=zip from your php.ini file , ie, 
 ;extension=zip to extension=zip
 
